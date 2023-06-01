@@ -1,1 +1,0 @@
-window._CCSettings={platform:"web-desktop",groupList:["default"],collisionMatrix:[[true]],hasResourcesBundle:true,hasStartSceneBundle:false,remoteBundles:[],subpackages:[],launchScene:"db://assets/resources/scene/load.fire",orientation:"portrait",jsList:["assets/libs/ll.106eb.js"],bundleVers:{internal:"52d36",resources:"2e842","game-word":"13870",main:"bd118"}};
