@@ -1,0 +1,1 @@
+[1,0,0,[["cc.JsonAsset",["_name","json"],1]],[[0,0,1,3]],[[0,"launch",{"load":[{"bundle":"game-word","dirs":["config.chapter/1","config/wordlist","config/cards"],"scenes":["lobby"]}],"run":{"bundle":"game-word","scene":"lobby"}}]],0,0,[],[],[]]
